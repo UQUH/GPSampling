@@ -38,7 +38,7 @@ The code implements the random Fourier feature and pathwise conditioning methods
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/UQUH/GPSampling_Edu.git
+    git clone https://github.com/UQUH/GPSampling.git
     cd GPSampling_Edu
     ```
 2. Open MATLAB and set the repository folder as the working directory.
